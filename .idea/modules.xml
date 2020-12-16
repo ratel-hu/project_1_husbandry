@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/husbandry-config/config.iml" filepath="$PROJECT_DIR$/husbandry-config/config.iml" />
       <module fileurl="file://$PROJECT_DIR$/husbandry.iml" filepath="$PROJECT_DIR$/husbandry.iml" />
       <module fileurl="file://$PROJECT_DIR$/husbandry-config/husbandry-config.iml" filepath="$PROJECT_DIR$/husbandry-config/husbandry-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-dao/husbandry-dao.iml" filepath="$PROJECT_DIR$/husbandry-dao/husbandry-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-feign/husbandry-feign.iml" filepath="$PROJECT_DIR$/husbandry-feign/husbandry-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/husbandry-model/husbandry-model.iml" filepath="$PROJECT_DIR$/husbandry-model/husbandry-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-redis/husbandry-redis.iml" filepath="$PROJECT_DIR$/husbandry-redis/husbandry-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-util/husbandry-util.iml" filepath="$PROJECT_DIR$/husbandry-util/husbandry-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/husbandry-web/husbandry-web.iml" filepath="$PROJECT_DIR$/husbandry-web/husbandry-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbnadry-service/husbnadry-service.iml" filepath="$PROJECT_DIR$/husbnadry-service/husbnadry-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-model/model.iml" filepath="$PROJECT_DIR$/husbandry-model/model.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/project_1_husbandry.iml" filepath="$PROJECT_DIR$/.idea/project_1_husbandry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-web/web.iml" filepath="$PROJECT_DIR$/husbandry-web/web.iml" />
     </modules>
   </component>
 </project>

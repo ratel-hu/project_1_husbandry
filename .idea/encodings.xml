@@ -3,7 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/husbandry-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/husbandry-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/husbandry-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/husbandry-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/husbandry-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/husbandry-util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/husbandry-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/husbnadry-service" charset="UTF-8" />
   </component>
 </project>

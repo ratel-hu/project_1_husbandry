@@ -6,27 +6,51 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="husbandry-web" />
+        <module name="web" />
         <module name="husbandry-model" />
-        <module name="husbandry-config" />
+        <module name="husbandry-feign" />
+        <module name="husbandry-web" />
+        <module name="husbandry-util" />
+        <module name="model" />
+        <module name="husbandry-dao" />
+        <module name="husbandry-redis" />
         <module name="husbandry" />
+        <module name="husbandry-config" />
+        <module name="husbnadry-service" />
+        <module name="config" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="husbandry" target="1.8" />
       <module name="husbandry-config" target="1.8" />
+      <module name="husbandry-dao" target="1.8" />
+      <module name="husbandry-feign" target="1.8" />
       <module name="husbandry-model" target="1.8" />
+      <module name="husbandry-redis" target="1.8" />
+      <module name="husbandry-util" target="1.8" />
       <module name="husbandry-web" target="1.8" />
+      <module name="husbnadry-service" target="1.8" />
+      <module name="model" target="1.8" />
+      <module name="web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="husbandry" options="-parameters" />
       <module name="husbandry-config" options="-parameters" />
+      <module name="husbandry-dao" options="-parameters" />
+      <module name="husbandry-feign" options="-parameters" />
       <module name="husbandry-model" options="-parameters" />
+      <module name="husbandry-redis" options="-parameters" />
+      <module name="husbandry-util" options="-parameters" />
       <module name="husbandry-web" options="-parameters" />
+      <module name="husbnadry-service" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="web" options="-parameters" />
     </option>
   </component>
 </project>

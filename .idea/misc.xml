@@ -33,7 +33,13 @@
         <option value="$PROJECT_DIR$/husbandry-model/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/husbandry-web/pom.xml" />
+        <option value="$PROJECT_DIR$/husbandry-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/husbandryredis/pom.xml" />
+        <option value="$PROJECT_DIR$/husbnadry-service/pom.xml" />
+        <option value="$PROJECT_DIR$/husbandry-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/husbandry-util/pom.xml" />
       </list>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
