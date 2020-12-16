@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/husbandry.iml" filepath="$PROJECT_DIR$/husbandry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-config/husbandry-config.iml" filepath="$PROJECT_DIR$/husbandry-config/husbandry-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-model/husbandry-model.iml" filepath="$PROJECT_DIR$/husbandry-model/husbandry-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/husbandry-web/husbandry-web.iml" filepath="$PROJECT_DIR$/husbandry-web/husbandry-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project_1_husbandry.iml" filepath="$PROJECT_DIR$/.idea/project_1_husbandry.iml" />
+    </modules>
+  </component>
+</project>
